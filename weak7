@@ -1,0 +1,28 @@
+#include <iostream>
+#include <vector>
+
+int main(){
+    std::vector<int> vect;
+
+    vect.reserve(52);
+
+    vect.push_back(1);
+    vect.push_back(2);
+    vect.push_back(3);
+    vect.push_back(4);
+    vect.clear()
+
+    //std::cout << vect.size() <<std::endl;
+    //std::cout << vect.max_size() << std::endl;
+    for(std::vector<int>::iterator it = vect.begin(); it != vect.end(); it++){
+        std::cout << *it <<std::end;
+    }
+    
+    for(auto it = vect.begin(); it != vect.end(); it++){
+        std::cout *it << std::endl;
+    }
+
+    for(auto x ; vect){
+        
+    }
+}
