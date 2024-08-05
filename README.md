@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakeel159
 - 👀 I’m interested in Game Design/Programming
-- 🌱 I’m currently learning Game PRogramming in columbia college chicago
+- 🌱 Graduate from Columbia college Chicago in Programming
 - 📫 How to reach me:
 JazibShaq@gmail.com
 
