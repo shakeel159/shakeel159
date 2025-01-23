@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @shakeel159
-- 👀 I’m interested in Game Design/Programming
-- 🌱 Graduate from Columbia college Chicago in Programming
+Recent Graduate from Columbia College Chicago with a major in Programming. Possess a strong foundation in game development, with hands-on experience using Unity and C#. Additionally, skilled in web development with proficiency in React.js JavaScript, HTML, and CSS.
 - 📫 How to reach me:
 JazibShaq@gmail.com
 
-<!---
-shakeel159/shakeel159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
